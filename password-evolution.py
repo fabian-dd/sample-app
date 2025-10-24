@@ -1,1 +1,1 @@
-#You can addd to this file in the editor 
+#You can add to this file in the editor 
