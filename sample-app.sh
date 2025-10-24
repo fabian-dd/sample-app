@@ -20,3 +20,5 @@ cd tempdir
 docker build -t sampleapp .
 docker run -t -d -p 7777:7777 --name samplerunning sampleapp
 docker ps -a 
+
+#Docker
